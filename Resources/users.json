@@ -1,0 +1,9 @@
+{
+  "891": {
+    "py/object": "Domain.user.User",
+    "id_entitate": 891,
+    "username": "AdiRomanov",
+    "email": "adir@gmail.com",
+    "password": "123456"
+  }
+}

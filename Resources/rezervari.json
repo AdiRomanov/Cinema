@@ -1,0 +1,10 @@
+{
+  "1": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "id_entitate": "1",
+    "id_film_r": "2",
+    "id_card_client": "3",
+    "data": "10.10.2020",
+    "ora": "10:10"
+  }
+}

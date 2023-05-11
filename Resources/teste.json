@@ -1,0 +1,18 @@
+{
+  "1": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "1",
+    "titlu": "F1",
+    "an_aparitie": "2010",
+    "pret": 100,
+    "program": "11:30 - 12:30"
+  },
+  "2": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "2",
+    "titlu": "F2",
+    "an_aparitie": "2020",
+    "pret": 1020,
+    "program": "15:45 - 17:00"
+  }
+}

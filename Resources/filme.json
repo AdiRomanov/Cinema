@@ -1,0 +1,50 @@
+{
+  "1": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "1",
+    "titlu": "da",
+    "an_aparitie": "2000",
+    "pret": 10.0,
+    "program": "10:10-11:11"
+  },
+  "2": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "2",
+    "titlu": "adssdaA",
+    "an_aparitie": "2000",
+    "pret": 20.0,
+    "program": "10:30-14:20"
+  },
+  "10": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "10",
+    "titlu": "alldasl",
+    "an_aparitie": "2003",
+    "pret": 10.0,
+    "program": "10:30-12:30"
+  },
+  "147": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "147",
+    "titlu": "Zojoaydegs",
+    "an_aparitie": "2018",
+    "pret": 81,
+    "program": "10:51 - 3:57"
+  },
+  "820": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "820",
+    "titlu": "Ficetdybcz",
+    "an_aparitie": "1919",
+    "pret": 271,
+    "program": "17:32 - 3:57"
+  },
+  "818": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "818",
+    "titlu": "Pmqolbtoiw",
+    "an_aparitie": "1855",
+    "pret": 218,
+    "program": "10:30 - 7:27"
+  }
+}
